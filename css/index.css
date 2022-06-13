@@ -139,8 +139,17 @@ button:active{
 
 #form-estados{
 	padding: 80px;
+	text-align: center;
 }
 
 #erro{
 	color: red;
+}
+
+#dados-temp{
+	text-align: center;
+}
+
+#img-temp{
+	box-shadow: 5px 5px 10px lightgray;
 }

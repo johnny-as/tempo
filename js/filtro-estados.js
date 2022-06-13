@@ -1,7 +1,6 @@
 function escolhaEstado(){
     
-    var form = document.querySelector("#form-estados");
-    var estado = form.estados.value;
+    var estado = $("#estados").val();
 
     switch (estado) {
         case 'Acre':
